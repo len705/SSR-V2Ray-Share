@@ -27,5 +27,13 @@
 ### 1. V2Ray / VMess 节点
 ```text
 vmess://eyJ2IjoiMiIsImFkZCI6ImhrMDEua2Nub2RlLmNjIiwicHMiOiLpppnmuK8wMSIsInBvcnQiOiI4ODk5IiwiaWQiOiI1MTg0ZmZkMS1kNzY0LTQ1MDQtODJmMC00ODIwN2JmZjhlMmYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwic2N5IjoiYXV0byJ9
-2. Shadowsocks (SS2022) 节点Plaintextss://YWVzLTEyOC1nY206NTE4NGZmZDEtZDc2NC00NTA0LTgyZjAtNDgyMDdiZmY4ZTJm@hk01.kcnode.cc:8999#香港03
-## 🛠️ 推荐客户端下载请根据你的设备下载对应的客户端并导入上方节点：平台推荐工具官方下载链接 (GitHub/Store)Windowsv2rayN👉 点击下载 v2rayN-CoreAndroidv2rayNG👉 点击下载 v2rayNG APKmacOSClash Verge Rev👉 点击下载 .dmg 安装包iOSShadowrocket👉 App Store 购买正版Linuxv2rayA👉 点击查看安装教程📢 免责声明法律声明：本项目所分享的资源均来自网络，仅供个人科研、学习以及开发测试使用。请使用者务必遵守当地法律法规。隐私提醒：使用免费节点时，请勿进行网银支付、登录高度敏感账号等操作。服务说明：免费节点具有时效性，不保证长期有效。如需更佳体验，请选择 KC Network 官方付费服务。⭐ 觉得有帮助？如果这些节点对你有用，请给本项目点一个 Star 🌟，你的支持是我更新的最大动力！
+2. Shadowsocks (SS2022) 节点ss://YWVzLTEyOC1nY206NTE4NGZmZDEtZDc2NC00NTA0LTgyZjAtNDgyMDdiZmY4ZTJm@hk01.kcnode.cc:8999#香港03
+ 🛠️ 推荐客户端下载
+请根据你的设备下载对应的客户端并导入上方节点：
+平台推荐工具官方下载链接 (GitHub/Store)Windowsv2rayN👉 点击下载 v2rayN-CoreAndroidv2rayNG👉 点击下载 v2rayNG APKmacOSClash Verge Rev👉 点击下载 .dmg 安装包iOSShadowrocket👉 App Store 购买正版Linuxv2rayA👉 点击查看安装教程
+📢 免责声明
+1.法律声明：本项目所分享的资源均来自网络，仅供个人科研、学习以及开发测试使用。请使用者务必遵守当地法律法规。
+2.隐私提醒：使用免费节点时，请勿进行网银支付、登录高度敏感账号等操作。
+3.服务说明：免费节点具有时效性，不保证长期有效。如需更佳体验，请选择 KC Network 官方付费服务。
+⭐ 觉得有帮助？
+如果这些节点对你有用，请给本项目点一个 Star 🌟，你的支持是我更新的最大动力！
