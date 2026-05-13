@@ -35,12 +35,12 @@ ss://YWVzLTEyOC1nY206NTE4NGZmZDEtZDc2NC00NTA0LTgyZjAtNDgyMDdiZmY4ZTJm@hk01.kcnod
 🛠️ 推荐客户端下载
 请根据你的设备下载对应的客户端并导入上方节点：
 
- 平台	   推荐工具         	官方下载链接 (GitHub)
-Windows	  v2rayN	        [👉 点击下载 v2rayN-Core](https://github.com/2dust/v2rayN/releases)
-Android	  v2rayNG	        [👉 点击下载 v2rayNG APK](https://github.com/2dust/v2rayNG/releases)
-macOS   	Clash Verge Rev	[👉 点击下载 .dmg 安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-iOS	      Shadowrocket	  [App Store 购买正版](https://apps.apple.com/us/app/shadowrocket/id932747118)
-Linux	    v2rayA	        [👉 点击查看安装教程](https://github.com/v2rayA/v2rayA)
+ 平台	     推荐工具         	官方下载链接 (GitHub)
+Windows	  v2rayN	          👉 [点击下载 v2rayN-Core](https://github.com/2dust/v2rayN/releases)
+Android	  v2rayNG	       👉 [点击下载 v2rayNG APK](https://github.com/2dust/v2rayNG/releases)
+macOS   	Clash Verge Rev	 👉 [点击下载 .dmg 安装包](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+iOS	    Shadowrocket	    👉 [App Store 购买正版](https://apps.apple.com/us/app/shadowrocket/id932747118)
+Linux	    v2rayA	          👉  [点击查看安装教程](https://github.com/v2rayA/v2rayA)
 
 
 
